@@ -5,5 +5,5 @@ git init
 git add readme.txt
 # Commiting to the repository
 git commit -m "your message"
-# Diffrence
+# Difference
 git diff
